@@ -2,3 +2,4 @@
 
 import pytube
 
+yt = pytube.Youtube()
